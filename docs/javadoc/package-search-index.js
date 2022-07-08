@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"com.arlan.chess","l":"com.arlan.chess"},{"m":"com.arlan.chess","l":"com.arlan.chess.controller"},{"m":"com.arlan.chess","l":"com.arlan.chess.model"},{"m":"com.arlan.chess","l":"com.arlan.chess.model.figures"},{"m":"com.arlan.chess","l":"com.arlan.chess.view"}]

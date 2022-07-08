@@ -1,0 +1,6 @@
+module:com.arlan.chess
+com.arlan.chess
+com.arlan.chess.controller
+com.arlan.chess.model
+com.arlan.chess.model.figures
+com.arlan.chess.view

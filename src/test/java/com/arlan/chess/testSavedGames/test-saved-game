@@ -1,0 +1,7 @@
+B7:Pawn:false
+G4:Knight:false
+B1:Knight:true
+E7:Pawn:false
+B6:King:false
+isVersusBot:true
+turnToMove:true
